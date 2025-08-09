@@ -1,12 +1,14 @@
 body {
     padding-left: 15px;
+    /*
      background-image: url('static/images/photo1.jpg');
      background-size: cover;       /* Make it fill the screen */
      background-position: center; /* Center it */
      background-repeat: no-repeat; /* No tiling */
-     min-height: 100vh;           /* Fill full height */
+     min-height: 100vh;           /* Fill full height *
      margin: 0;
-        }
+    */    
+    }
 
 h1 a, h2 a {
     color: #C25100;
