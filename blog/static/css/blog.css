@@ -1,4 +1,5 @@
 body {
+  border: 15px dashed red;
     padding-left: 15px;
     /*
      background-image: url('static/images/photo1.jpg');
